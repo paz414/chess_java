@@ -1,6 +1,6 @@
 # Chess.java
 
-Welcome to Chess.java, a classical chess game implementation written in Java. This project aims to provide a user-friendly and interactive chess experience through a command-line interface.
+Welcome to Chess.java, a classical chess game implementation written in Java. This project aims to provide a user-friendly and interactive chess experience through a graphical user interface (GUI). The GUI offers an intuitive and visually appealing way to play chess on your computer.
 
 ## Project Timeline
 
