@@ -5,7 +5,7 @@ Welcome to Chess.java, a classical chess game implementation written in Java. Th
 ## Project Timeline
 
 - **Start Date:** 19/5/2024
-- **End Date:** xx/5/24
+- **End Date:** 26/5/24
 
 ## Directory Structure
 
