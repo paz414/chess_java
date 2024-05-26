@@ -5,7 +5,7 @@ Welcome to Chess.java, a classical chess game implementation written in Java. Th
 ## Project Timeline
 
 - **Start Date:** 19/5/2024
-- **End Date:** xx/5/24
+- **End Date:** 26/5/24
 
 ## Features
 
@@ -25,25 +25,27 @@ To get started with Chess.java, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/chess.java.git
+   git clone https://github.com/paz_414/chess_java.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd chess.java
+   cd chess_java
    ```
 
 3. Compile the Java source files:
+The project is organized into two packages: main and piece. The main package contains the main class from which the program is run.
+To compile the source files, navigate to the src directory and run the following command:
 
    ```
-   javac *.java
+   javac main/*.java piece/*.java
    ```
 
 4. Run the main class:
 
    ```
-   java ChessGame
+   java main.Main
    ```
 
 Follow the on-screen instructions to start playing the game.
