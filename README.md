@@ -1,11 +1,21 @@
 # Chess.java
 
-Welcome to Chess.java, a classical chess game implementation written in Java. This project aims to provide a user-friendly and interactive chess experience through a graphical user interface (GUI). The GUI offers an intuitive and visually appealing way to play chess on your computer.
+Welcome to Chess.java, a classical chess game implementation written in Java. This project aims to provide a user-friendly and interactive chess experience through a graphical user interface (GUI) created using Java's Graphics2D library. The GUI offers an intuitive and visually appealing way to play chess on your computer.
 
 ## Project Timeline
 
 - **Start Date:** 19/5/2024
-- **End Date:** 26/5/24
+- **End Date:** xx/5/24
+
+## Directory Structure
+
+The project is organized into two main directories:
+
+1. **src**: This is the source directory containing the Java code files. It contains the following packages:
+   - **main**: This package includes all the classes and code related to game mechanics and the game design.
+   - **piece**: This package contains information about chess pieces and dictates their movement rules.
+
+2. **res**: This is the resource directory marked as a resource root. It contains PNG images of the chess pieces, which are used in the source code.
 
 ## Features
 
@@ -23,30 +33,23 @@ The Chess.java program includes the following features:
 To get started with Chess.java, follow these steps:
 
 1. Clone the repository:
-
-   ```
-   git clone https://github.com/paz_414/chess_java.git
-   ```
-
+   ````
+   git clone https://github.com/paz414/chess_java.git
+   ````
 2. Navigate to the project directory:
-
-   ```
+   ````
    cd chess_java
-   ```
-
+   ````
 3. Compile the Java source files:
-The project is organized into two packages: main and piece. The main package contains the main class from which the program is run.
-To compile the source files, navigate to the src directory and run the following command:
+To compile the source files, run the following command from the project root directory:
 
-   ```
-   javac main/*.java piece/*.java
-   ```
-
-4. Run the main class:
-
-   ```
-   java main.Main
-   ```
+````
+javac src/main/*.java src/piece/*.java
+````
+4. Run the main class: After successful compilation, run the main class with the following command:
+````
+java main.Main
+````
 
 Follow the on-screen instructions to start playing the game.
 
@@ -54,9 +57,10 @@ Follow the on-screen instructions to start playing the game.
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Acknowledgments
 
-First of all, quick shout out to RyiSnow, for game dev related details.
-I would also like to thank the open-source community for their valuable resources and contributions, which have been instrumental in the development of Chess.java.
-
-
+We would like to thank the open-source community for their valuable resources and contributions, which have been instrumental in the development of Chess.java.
