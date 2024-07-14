@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+![GIF](https://upload.wikimedia.org/wikipedia/commons/1/13/Animation_showing_windmill_%28aka_seesaw%29_chess_tactic.gif)
+
+
+
 # Chess.java
 
 Welcome to Chess.java, a classical chess game implementation written in Java. This project aims to provide a user-friendly and interactive chess experience through a graphical user interface (GUI) created using Java's Graphics2D library. The GUI offers an intuitive and visually appealing way to play chess on your computer.
