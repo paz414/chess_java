@@ -78,3 +78,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 We would like to thank the open-source community for their valuable resources and contributions, which have been instrumental in the development of Chess.java.
+
+
+
+
+## Current Look
+
+![image](https://github.com/user-attachments/assets/20e2b516-b756-4864-a0c6-3a0ff747f2e7)
+
