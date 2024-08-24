@@ -1,5 +1,4 @@
 //DISCLAIMER: Too many comments ahead!!
-
 package main;
 import javax.swing.JPanel; // JPanel is a class in javax.swing package
                             // that provides a container for holding components
@@ -42,8 +41,8 @@ public class GamePanel extends JPanel implements Runnable{
 
     public GamePanel(){
         setPreferredSize(new Dimension(WIDTH,HEIGHT)); // set the size of the panel
-        setBackground(Color.black); // set the background color of the panel as black
-
+        //i want to set the background color such that both white and black promotion pieces are visible
+        setBackground(Color.pink);// set the background color of the panel as black
         addMouseListener(mouse); // add the mouse listener to the panel
         addMouseMotionListener(mouse); // add the mouse motion listener to the panel
 
